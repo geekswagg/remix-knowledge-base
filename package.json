@@ -39,7 +39,7 @@
     "generate": "^0.14.0",
     "isbot": "latest",
     "knex": "^2.4.2",
-    "lucide-react": "^0.256.0",
+    "lucide-react": "^0.562.0",
     "marked": "^4.0.14",
     "moment": "^2.29.4",
     "npx": "^10.2.2",
